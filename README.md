@@ -1,7 +1,7 @@
 <a href="https://hasathcharu.com"><img src="https://raw.githubusercontent.com/hasathcharu/hasathcharu/main/assets/cover-new.svg" /></a>
 
 ### Hello I'm Haritha 👋
-<img src="https://github-readme-stats.vercel.app/api?username=hasathcharu&show_icons=true&theme=graywhite&hide=stars&hide_border=true&hide_title=true&hide_rank=true" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hasathcharu&show_icons=true&theme=vue&hide=stars&hide_border=true&hide_title=true&hide_rank=true" align="right"/>
 
 I am an undergratuate from the University of Moratuwa.
 
