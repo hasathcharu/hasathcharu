@@ -3,7 +3,7 @@
 ### Hello I'm Haritha 👋
 <img src="https://github-readme-stats.vercel.app/api?username=hasathcharu&show_icons=true&theme=vue&hide=stars&hide_border=true&hide_title=true&hide_rank=true" align="right"/>
 
-I am an undergratuate from the University of Moratuwa.
+I am an undergraduate from the University of Moratuwa.
 
 My passion is to create sustainable solutions to enhance productivity while safeguarding the well-being of environment and the people.
 
