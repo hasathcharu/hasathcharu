@@ -6,4 +6,5 @@
 I am a Software Engineer at WSO2, working with the Integration team.
 
 I love to create sustainable, human-centric solutions balancing productivity with care for people and the environment.
+
 Learn more about me and my projects @ [hasathcharu.com](https://hasathcharu.com).
