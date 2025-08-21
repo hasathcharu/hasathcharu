@@ -1,10 +1,9 @@
 <a href="https://hasathcharu.com"><img src="https://raw.githubusercontent.com/hasathcharu/hasathcharu/main/assets/cover-new.svg" /></a>
 
-### Hello I'm Haritha 👋
+### Hey I'm Haritha 👋
 <img src="https://github-readme-stats.vercel.app/api?username=hasathcharu&show_icons=true&theme=vue&hide=stars&hide_border=true&hide_title=true&hide_rank=true" align="right"/>
 
-I am an undergraduate from the University of Moratuwa.
+I am a Software Engineer from WSO2, working with the Integration team.
 
-My passion is to create sustainable solutions to enhance productivity while safeguarding the well-being of environment and the people.
-
+I love to create sustainable, human-centric solutions balancing productivity with care for people and the environment.
 Learn more about me and my projects @ [hasathcharu.com](https://hasathcharu.com).
